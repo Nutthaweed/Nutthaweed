@@ -1,6 +1,5 @@
-### HELLO GUYS MY NAME IS Nutthaweed PYTHON & JAVASCRIPT JUNIOR PROGRAMMER👋
-🌱 I’m currently learning at Suankularb witthayalai nonthaburi
-CONTACT ME : IG @Nutthaweed FB To Nutthaweed
+<h1 align="center">Hello, I'm Nutthaweed</h1>
+<h2 align="left">I'm programmer based in Thailand</h1>
 
 <h3 align="left">Languages:</h3>
 <p align="center">
@@ -44,3 +43,4 @@ CONTACT ME : IG @Nutthaweed FB To Nutthaweed
     &nbsp;
  </p>
 
+<h4 align="center">Contact me IG:@nutthaweed, FB:To Nutthaweed</h4>
