@@ -48,6 +48,7 @@
   <p align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nutthaweed&show_icons=true&locale=en&layout=compact" alt="Nutthaweed" />
     &nbsp;
+    <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&show_icons=true&locale=en" alt="Nutthaweed" />
  </p>
 
 <h4 align="center">Contact me IG:@nutthaweed, FB:To Nutthaweed</h4>
