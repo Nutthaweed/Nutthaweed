@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Nutthaweed</h1>
 <h2 align="left">I'm programmer based in Thailand</h1>
-<img src="https://www.facebook.com/photo/?fbid=1437266493335630&set=a.106250596437233"></img>
+<img src="https://www.facebook.com/photo/?fbid=1437266493335630&set=a.106250596437233"/>
 
 <h3 align="left">Languages:</h3>
 <p align="center">
