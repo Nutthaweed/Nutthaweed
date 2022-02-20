@@ -28,31 +28,6 @@ CONTACT ME : IG @Nutthaweed FB To Nutthaweed
       height="40"
     />
   </a>
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -97,14 +72,6 @@ CONTACT ME : IG @Nutthaweed FB To Nutthaweed
     <img
       src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
       alt="github"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://copilot.github.com/" target="_blank">
-    <img
-      src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png"
-      alt="copilot"
       width="40"
       height="40"
     />
