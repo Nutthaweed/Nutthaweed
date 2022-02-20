@@ -4,7 +4,7 @@
      border-radius="50"
     width="50"
     height="50"
-    align-item="center"
+    align="center"
      />
 
 <h3 align="left">Languages:</h3>
