@@ -82,7 +82,6 @@
       height="40"
     />
     </a>
-    /a>
      <a href=https://tailwindcss.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
@@ -91,7 +90,6 @@
       height="40"
     />
     </a>
-    /a>
      <a href="https://threejs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg"
