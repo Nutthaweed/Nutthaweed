@@ -116,4 +116,4 @@
  </p>
 
 <h4 align="center">Contact me IG:@nutthaweed, FB:To Nutthaweed</h4>
-          <img src="https://giphy.com/gifs/n8ClfqBg5oZsUdR28J" alt="working" align="center">
+          <img src="https://media.giphy.com/media/n8ClfqBg5oZsUdR28J/giphy-downsized-large.gif" alt="working" align="center">
