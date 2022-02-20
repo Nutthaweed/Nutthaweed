@@ -113,8 +113,7 @@ CONTACT ME : IG @Nutthaweed FB To Nutthaweed
 </p>
 
   <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Fakepng&show_icons=true&locale=en&layout=compact" alt="Fakepng" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nutthaweed&show_icons=true&locale=en&layout=compact" alt="Nutthaweed" />
     &nbsp;
-    <img   src="https://github-readme-stats.vercel.app/api?username=Fakepng&show_icons=true&locale=en" alt="Fakepng" />
-  </p>
+ </p>
 
