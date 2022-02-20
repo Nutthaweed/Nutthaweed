@@ -8,7 +8,7 @@
      />
  </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">👨‍💻Languages:</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
     <img
