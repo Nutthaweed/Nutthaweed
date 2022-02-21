@@ -109,7 +109,7 @@
 
 
   <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nutthaweed&show_icons=true&locale=en&layout=compact" alt="Nutthaweed" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nutthaweed&theme=radical&show_icons=true&locale=en&layout=compact" alt="Nutthaweed" />
     &nbsp;
-    <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&show_icons=true&locale=en" alt="Nutthaweed" />
+    <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&theme=radical&show_icons=true&locale=en" alt="Nutthaweed" />
  </p>
