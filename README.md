@@ -3,6 +3,9 @@
 <p align="center">
 <img src="https://media.giphy.com/media/n8ClfqBg5oZsUdR28J/giphy-downsized-large.gif" align="center">
  </p>
+ 
+ ## 🏆 My Trophy
+<p align="center"><a><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&column=8" alt=trophy /></a></p>
 
 <h3 align="left">👨‍💻Languages:</h3>
 <p align="center">
@@ -111,5 +114,3 @@
     <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&show_icons=true&locale=en" alt="Nutthaweed" />
  </p>
 
-## 🏆 My Trophy
-<p align="center"><a><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&column=8" alt=trophy /></a></p>
