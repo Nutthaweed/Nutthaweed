@@ -111,6 +111,5 @@
     <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&show_icons=true&locale=en" alt="Nutthaweed" />
  </p>
 
-<h4 align="center">Contact me IG:@nutthaweed, FB:To Nutthaweed, Discord: Nuthaweed #9828</h4>
-## My trophy
+## 🏆 My Trophy
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&column=8" alt=trophy /></p>
