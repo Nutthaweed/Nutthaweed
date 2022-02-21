@@ -114,5 +114,5 @@
     <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&show_icons=true&locale=en" alt="Nutthaweed" />
  </p>
 
-<h4 align+"center">Contact me</h4>
+<h4 align="center">Contact me</h4>
                   <p align="center">Instragram: Nutthaweed, Facebook: To Nutthaweed, Discord: Nutthaweed #9828</p>
