@@ -112,3 +112,6 @@
  </p>
 
 <h4 align="center">Contact me IG:@nutthaweed, FB:To Nutthaweed, Discord: Nuthaweed #9828</h4>
+
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=nutthaweedcolumn=8)](https://github-profile-trophy.vercel.app/?username=nutthaweed&column=8)
