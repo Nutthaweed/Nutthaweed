@@ -7,7 +7,7 @@
  ## 🏆 My Trophy
 <p align="center"><a><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&column=8&no-bg=true" alt=trophy align="center" /></a></p>
 
-## 👨‍💻Languages:
+## 👨‍💻 Languages
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
     <img
@@ -114,5 +114,5 @@
     <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&show_icons=true&locale=en" alt="Nutthaweed" />
  </p>
 
-<h4 align="center">Contact me</h4>
+## Contact me
                   <p align="center">Instragram: Nutthaweed, Facebook: To Nutthaweed, Discord: Nutthaweed #9828</p>
