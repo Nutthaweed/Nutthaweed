@@ -4,9 +4,6 @@
 <img src="https://media.giphy.com/media/n8ClfqBg5oZsUdR28J/giphy-downsized-large.gif" align="center">
  </p>
 
-<h5 align="center">My Trophy</h5>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&column=8" alt=trophy /></p>
-
 <h3 align="left">👨‍💻Languages:</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
@@ -115,3 +112,5 @@
  </p>
 
 <h4 align="center">Contact me IG:@nutthaweed, FB:To Nutthaweed, Discord: Nuthaweed #9828</h4>
+## My trophy
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&column=8" alt=trophy /></p>
