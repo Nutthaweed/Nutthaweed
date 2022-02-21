@@ -113,7 +113,3 @@
     &nbsp;
     <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&show_icons=true&locale=en" alt="Nutthaweed" />
  </p>
-
-## 📞 Contact me
-                
-## Instragram: Nutthaweed, Facebook: To Nutthaweed, Discord: Nutthaweed #9828
