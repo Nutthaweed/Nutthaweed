@@ -5,7 +5,7 @@
  </p>
  
  ## 🏆 My Trophy
-<p align="center"><a><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&column=8" alt=trophy /></a></p>
+<p align="center"><a><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&column=8" alt=trophy align="center" /></a></p>
 
 <h3 align="left">👨‍💻Languages:</h3>
 <p align="center">
