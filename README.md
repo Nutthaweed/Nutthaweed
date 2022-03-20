@@ -4,8 +4,10 @@
 <img src="https://media.giphy.com/media/n8ClfqBg5oZsUdR28J/giphy-downsized-large.gif" align="center">
  </p>
  
- ## 🏆 My Trophy
+ <details>
+ <summary>## 🏆 My Trophy</summary>
 <p><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&theme=radical&column=8&no-bg=true&no-frame=true" alt=trophy /></p>
+ </details>
 
 ## 👨‍💻 Languages
 <p align="center">
