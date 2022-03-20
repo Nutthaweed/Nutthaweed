@@ -247,7 +247,7 @@
  
 
 ## 🐱‍💻 My GitHub Stats
-
+<b>Github Stats</b>
   <p align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nutthaweed&theme=radical&show_icons=true&locale=en&layout=compact" alt="Nutthaweed" />
     &nbsp;
