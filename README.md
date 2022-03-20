@@ -241,7 +241,7 @@
 ## 👫 Hobbies
     
 <p align="center">
-<text>Play Video Game,Coding some project, Plays some card and board and Listen Music</text>
+<text>Play Video Game , Coding Some Project , Plays Some Card , Play Some Board Game And Listen Music.</text>
      </p>
     
     
