@@ -247,13 +247,15 @@
  
 
 ## 🐱‍💻 My GitHub Stats
-<b>Github Stats</b>
+<b> 📄 Github Stats</b>
   <p align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nutthaweed&theme=radical&show_icons=true&locale=en&layout=compact" alt="Nutthaweed" />
     &nbsp;
     <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&theme=radical&show_icons=true&locale=en" alt="Nutthaweed" />
  </p>
  
+ 
+ <b> 🏆 Github Trophy</b>
  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&theme=radical&column=8&no-bg=true&no-frame=true" alt=trophy /></p>
  
 ## 👫 Hobbies
