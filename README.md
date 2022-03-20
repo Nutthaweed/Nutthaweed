@@ -65,7 +65,7 @@
  
  <details>
  <summary><b> 🏆 My FrameWorks</b></summary>
- <p>
+ <p align="center">
   <a href="https://nodejs.org/en/"target="_blank">
     <img
       src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
