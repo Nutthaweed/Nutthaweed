@@ -102,6 +102,12 @@
       alt="flutter"
     />
   </a>
+  <a href="https://threejs.org/"target="_blank">
+    <img
+      src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"
+      alt="threejs"
+    />
+  </a>
  </p>
  </details>
 
