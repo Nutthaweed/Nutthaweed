@@ -108,6 +108,12 @@
       alt="threejs"
     />
   </a>
+  <a href="https://expo.dev/"target="_blank">
+    <img
+      src=" https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"
+      alt="expo"
+    />
+  </a>
  </p>
  </details>
 
