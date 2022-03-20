@@ -1,7 +1,7 @@
 <h1 align="center">🎉Hello, I'm Nutthaweed🎉</h1>
 <h2 align="center">💻I'm junior programmer at Suankularb Witthayalai Nonthaburi based in Thailand💻</h2>
 <p align="center">
-<img src="https://media.giphy.com/media/n8ClfqBg5oZsUdR28J/giphy-downsized-large.gif" align="center" width="1200" height="500">
+<img src="https://media.giphy.com/media/n8ClfqBg5oZsUdR28J/giphy-downsized-large.gif" align="center" width="1200" height="300">
  </p>
  
 ## 👨‍💻 Skills
