@@ -60,11 +60,17 @@
       alt="typescript"
     />
     </a>
+ <a href="https://dart.dev/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
+      alt="dart"
+    />
+    </a>
 </p>
  </details>
  
  <details>
- <summary><b> 🏆 My FrameWorks</b></summary>
+ <summary><b> 💾 My Frameworks</b></summary>
  <p align="center">
   <a href="https://nodejs.org/en/"target="_blank">
     <img
