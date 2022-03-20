@@ -58,8 +58,6 @@
     <img
       src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"
-      width="40"
-      height="40"
     />
     </a>
 </p>
