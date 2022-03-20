@@ -229,23 +229,22 @@
  
 
 ## 🐱‍💻 My GitHub Stats
-<details>
- <summary> 💻 Github Stats</summary>
+
   <p align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nutthaweed&theme=radical&show_icons=true&locale=en&layout=compact" alt="Nutthaweed" />
     &nbsp;
     <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&theme=radical&show_icons=true&locale=en" alt="Nutthaweed" />
-   </details>
-   <details>
- <summary><b> 🏆 Github Trophy</b></summary>
-    <p><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&theme=radical&column=8&no-bg=true&no-frame=true" alt=trophy /></p>
- </details>
+   
+    <img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&theme=radical&column=8&no-bg=true&no-frame=true" alt=trophy />
+ 
  </p>
  
 ## 👫 Hobbies
     
-<p align-"center"><img
-      src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></p>
+<p align-"center">
+<img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white">
+<img src="(https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black">
+      </p>
     
     
 ## 📞 Contact me
