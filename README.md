@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Skills
 <details>
-                 <summary><b>  👨‍💻 My Language </b></summary>
+                 <summary><b> 🏮 My Language </b></summary>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
     <img
