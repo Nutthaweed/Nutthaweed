@@ -14,18 +14,14 @@
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="javascript"
-      width="40"
-      height="40"
     />
   </a>
     <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
       alt="nodejs"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
