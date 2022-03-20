@@ -116,10 +116,22 @@
       alt="reactjs"
     />
   </a>
+  <a href="https://chakra-ui.com/"target="_blank">
+    <img
+      src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"
+      alt="chakraui"
+    />
+  </a>
   <a href="https://tailwindcss.com/"target="_blank">
     <img
-      src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)"
+      src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
       alt="tailwindcss"
+    />
+  </a>
+  <a href="https://mui.com/"target="_blank">
+    <img
+      src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"
+      alt="MUI"
     />
   </a>
   <a href="https://reactnative.dev/"target="_blank">
@@ -144,6 +156,12 @@
     <img
       src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"
       alt="expo"
+    />
+  </a>
+  <a href="https://www.electronjs.org/"target="_blank">
+    <img
+      src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"
+      alt="electron"
     />
   </a>
  </p>
@@ -261,7 +279,7 @@
     <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
   </a>
  <a href="https://open.spotify.com/playlist/46l7lpyZfyum9G0dHuc4w7"target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=whit" alt="Spotify"/>
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
  <a href="https://mywebsite-nutthaweed.vercel.app/"target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="MyownWebsite"/>
