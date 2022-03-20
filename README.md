@@ -253,14 +253,14 @@
  <b> 🏆 Github Trophy</b>
  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&theme=radical&column=8&no-bg=true&no-frame=true" alt=trophy /></p>
  
-# 👫 Hobbies
+## 👫 Hobbies
     
 <p align="center">
 <text>Play Video Game , Coding Some Project , Plays Some Card , Play Some Board Game And Listen Music.</text>
      </p>
     
     
-# 📞 Contact me
+## 📞 Contact me
 
 <p align="center">
  <a href="https://www.facebook.com/Nutthaweed/"target="_blank">
