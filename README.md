@@ -270,7 +270,7 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook"/>
   </a>
  <a>
-    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line"/>
+    <img src="https://img.shields.io/badge/totopichayasuksa-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line"/>
   </a>
  <a href="https://www.instagram.com/nutthaweed/"target="_blank">
     <img src="https://img.shields.io/badge/nutthaweed-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instragram"/>
@@ -282,6 +282,6 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
  <a href="https://mywebsite-nutthaweed.vercel.app/"target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="MyownWebsite"/>
+    <img src="https://img.shields.io/badge/MyPortfolioWebsite-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="MyownWebsite"/>
   </a>
  </p>
