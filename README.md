@@ -5,8 +5,8 @@
  </p>
  
 ## 👨‍💻 Skills
-<details>
-                 <summary><b> 🏮 My Language </b></summary>
+
+<b> 🏮 My Language </b>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
     <img
@@ -93,10 +93,8 @@
     />
     </a>
 </p>
- </details>
  
- <details>
- <summary><b> 💾 My Frameworks</b></summary>
+ <b> 💾 My Frameworks</b>
  <p align="center">
   <a href="https://nodejs.org/en/"target="_blank">
     <img
@@ -165,10 +163,9 @@
     />
   </a>
  </p>
- </details>
+
  
- <details>
- <summary><b> 📝 My IDE/Editor</b></summary>
+ <b> 📝 My IDE/Editor</b>
  <p align="center">
   <a href="https://code.visualstudio.com/"target="_blank">
     <img
@@ -225,10 +222,9 @@
     />
   </a>
  </p>
- </details>
+
  
- <details>
- <summary><b> 🐕‍🦺 My Hosting Server</b></summary>
+<b> 🐕‍🦺 My Hosting Server</b>
  <p align="center">
  <a href="https://vercel.com/"target="_blank">
     <img
@@ -243,7 +239,7 @@
     />
   </a>
  </p>
- </details>
+ 
  
 
 ## 🐱‍💻 My GitHub Stats
