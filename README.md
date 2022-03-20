@@ -24,6 +24,18 @@
       alt="cplusplus"
     />
   </a>
+ <a href="https://www.w3schools.com/cs/index.php" target="_blank">
+    <img
+      src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
+      alt="csharp"
+    />
+  </a>
+ <a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank">
+    <img
+      src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="c"
+    />
+  </a>
   <a href="https://www.python.org" target="_blank">
     <img
       src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
@@ -70,6 +82,18 @@
     <img
       src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"
       alt="ruby"
+    />
+    </a>
+ <a href="https://kotlinlang.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"
+      alt="kotlin"
+    />
+    </a>
+ <a href="https://www.r-project.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"
+      alt="r"
     />
     </a>
 </p>
