@@ -222,7 +222,7 @@
       alt="Vercel"
     />
   </a>
-  <a href="https://dashboard.heroku.com/apps"target="_blank">
+  <a href="https://dashboard.heroku.com/"target="_blank">
     <img
       src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="Heroku"
