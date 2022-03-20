@@ -240,9 +240,9 @@
  
 ## 👫 Hobbies
     
-<p align-"center">
+<p align="center">
 <text>Play Video Game,Coding some project, Plays some card and board and Listen Music</text>
-      </p>
+     </p>
     
     
 ## 📞 Contact me
