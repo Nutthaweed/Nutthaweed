@@ -18,12 +18,6 @@
       alt="javascript"
     />
   </a>
-    <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
-      alt="nodejs"
-    />
-  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img
       src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
