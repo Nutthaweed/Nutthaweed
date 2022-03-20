@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Skills
 <details>
-                 <summary><b>  👨‍💻 Language </b></summary>
+                 <summary><b>  👨‍💻 My Language </b></summary>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
     <img
@@ -64,6 +64,18 @@
     <img
       src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
       alt="dart"
+    />
+    </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"
+      alt="rust"
+    />
+    </a>
+ <a href="https://www.ruby-lang.org/en/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"
+      alt="ruby"
     />
     </a>
 </p>
