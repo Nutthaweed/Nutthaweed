@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
     <img
-      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
       alt="javascript"
     />
   </a>
@@ -26,79 +26,37 @@
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
       alt="cplusplus"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://www.python.org" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="python"
-      width="40"
-      height="40"
     />
   </a>
     <a href="https://www.w3.org/html/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"
-      width="40"
-      height="40"
     />
   </a>
     <a href="https://www.java.com/en/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
+      src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
       alt="java"
-      width="40"
-      height="40"
     />
   </a>
-    <a href="https://nextjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-    </a>
-     <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-    </a>
-     <a href=https://tailwindcss.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
-      alt="tailwindcss"
-      width="40"
-      height="40"
-    />
-    </a>
-     <a href="https://threejs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg"
-      alt="threejs"
-      width="40"
-      height="40"
-    />
-    </a>
       <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+      src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"
       width="40"
       height="40"
