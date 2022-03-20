@@ -6,7 +6,7 @@
  
 ## 👨‍💻 Skills
 
-<b> 🏮 Used Language </b>
+<b> 🏮 Used Languages </b>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
     <img
@@ -224,7 +224,7 @@
  </p>
 
  
-<b> 🐕‍🦺 Used Hosting Server</b>
+<b> 🐕‍🦺 Used Hosting Servers</b>
  <p align="center">
  <a href="https://vercel.com/"target="_blank">
     <img
