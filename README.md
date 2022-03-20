@@ -273,7 +273,7 @@
     <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line"/>
   </a>
  <a href="https://www.instagram.com/nutthaweed/"target="_blank">
-    <img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instragram"/>
+    <img src="https://img.shields.io/badge/<nutthaweed>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instragram"/>
   </a>
  <a href="https://discord.gg/VvmSBQNqg7"target="_blank">
     <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
