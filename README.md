@@ -6,7 +6,7 @@
  
 ## 👨‍💻 Skills
 
-<b> 🏮 My Language </b>
+<b> 🏮 Used Language </b>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
     <img
@@ -94,7 +94,7 @@
     </a>
 </p>
  
- <b> 💾 My Frameworks</b>
+ <b> 💾 Used Frameworks</b>
  <p align="center">
   <a href="https://nodejs.org/en/"target="_blank">
     <img
@@ -165,7 +165,7 @@
  </p>
 
  
- <b> 📝 My IDE/Editor</b>
+ <b> 📝 Used IDE/Editor</b>
  <p align="center">
   <a href="https://code.visualstudio.com/"target="_blank">
     <img
@@ -224,7 +224,7 @@
  </p>
 
  
-<b> 🐕‍🦺 My Hosting Server</b>
+<b> 🐕‍🦺 Used Hosting Server</b>
  <p align="center">
  <a href="https://vercel.com/"target="_blank">
     <img
