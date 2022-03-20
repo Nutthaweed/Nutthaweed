@@ -108,7 +108,7 @@
 </p>
 
 <details>
-                 <summary>My GitHub Stats💻</summary>
+                 <summary><b>My GitHub Stats💻</b></summary>
   <p align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nutthaweed&theme=radical&show_icons=true&locale=en&layout=compact" alt="Nutthaweed" />
     &nbsp;
