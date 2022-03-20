@@ -4,9 +4,6 @@
 <img src="https://media.giphy.com/media/n8ClfqBg5oZsUdR28J/giphy-downsized-large.gif" align="center">
  </p>
  
-## 👫 Hobbies
-
-
 ## 👨‍💻 Skills
 <details>
                  <summary><b> 🏮 My Language </b></summary>
@@ -244,5 +241,10 @@
     <p><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&theme=radical&column=8&no-bg=true&no-frame=true" alt=trophy /></p>
  </details>
  </p>
-     
+ 
+## 👫 Hobbies
+    <p align="center"><img
+      src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></p>
+    
+    
 ## 📞 Contact me
