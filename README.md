@@ -10,7 +10,9 @@
 <p><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&theme=radical&column=8&no-bg=true&no-frame=true" alt=trophy /></p>
  </details>
 
-## 👨‍💻 Languages
+## 👨‍💻 Skills
+<details>
+                 <summary><b>Language👩‍💻</b></summary>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
     <img
@@ -61,6 +63,7 @@
     />
     </a>
 </p>
+ </details>
 
 ## 💻My GitHub Stats
   <p align="center">
