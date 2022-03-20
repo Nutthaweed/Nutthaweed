@@ -247,4 +247,8 @@
     
 ## 📞 Contact me
 
-<p>
+<p align="center">
+ <a href="https://www.facebook.com/Nutthaweed/"target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook"/>
+  </a>
+ </p>
