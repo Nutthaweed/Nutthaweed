@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/n8ClfqBg5oZsUdR28J/giphy-downsized-large.gif" align="center">
  </p>
  
-## 🏆 My Trophy
+## 👫 Hobbies
 
 
 ## 👨‍💻 Skills
@@ -231,16 +231,16 @@
  </details>
  
 
-## 💻 My GitHub Stats
+## 🐱‍💻 My GitHub Stats
 <details>
- <summary>Github Stats</summary>
+ <summary> 💻 Github Stats</summary>
   <p align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nutthaweed&theme=radical&show_icons=true&locale=en&layout=compact" alt="Nutthaweed" />
     &nbsp;
     <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&theme=radical&show_icons=true&locale=en" alt="Nutthaweed" />
    </details>
    <details>
- <summary><b>Github Trophy</b></summary>
+ <summary><b> 🏆 Github Trophy</b></summary>
     <p><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&theme=radical&column=8&no-bg=true&no-frame=true" alt=trophy /></p>
  </details>
  </p>
