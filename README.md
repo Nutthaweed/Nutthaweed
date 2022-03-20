@@ -251,4 +251,19 @@
  <a href="https://www.facebook.com/Nutthaweed/"target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook"/>
   </a>
+ <a>
+    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line"/>
+  </a>
+ <a href="https://www.instagram.com/nutthaweed/"target="_blank">
+    <img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instragram"/>
+  </a>
+ <a href="https://discord.gg/VvmSBQNqg7"target="_blank">
+    <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+  </a>
+ <a href="https://open.spotify.com/playlist/46l7lpyZfyum9G0dHuc4w7"target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=whit" alt="Spotify"/>
+  </a>
+ <a href="https://mywebsite-nutthaweed.vercel.app/"target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="MyownWebsite"/>
+  </a>
  </p>
