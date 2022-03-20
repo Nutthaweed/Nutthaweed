@@ -5,7 +5,7 @@
  </p>
  
  <details>
- <summary>## 🏆 My Trophy</summary>
+ <summary><a> 🏆 My Trophy</a></summary>
 <p><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&theme=radical&column=8&no-bg=true&no-frame=true" alt=trophy /></p>
  </details>
 
