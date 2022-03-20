@@ -243,8 +243,11 @@
  </p>
  
 ## 👫 Hobbies
-    <p align="center"><img
-      src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></p>
+    
+<p align-"center"><img
+      src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></p>
     
     
 ## 📞 Contact me
+
+<p>
