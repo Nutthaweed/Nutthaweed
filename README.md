@@ -5,14 +5,12 @@
  </p>
  
  ## 🏆 My Trophy
- <details>
- <summary><a> 🏆 My Trophy</a></summary>
 <p><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&theme=radical&column=8&no-bg=true&no-frame=true" alt=trophy /></p>
- </details>
+
 
 ## 👨‍💻 Skills
 <details>
-                 <summary><b>Language👩‍💻</b></summary>
+                 <summary><b>  👨‍💻 Language </b></summary>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank">
     <img
@@ -64,6 +62,9 @@
     </a>
 </p>
  </details>
+ 
+ <details>
+ <summary><b> 🏆 My Trophy</b></summary>
 
 ## 💻My GitHub Stats
   <p align="center">
