@@ -282,6 +282,9 @@
     <img src="https://img.shields.io/badge/MyWebsite-%23000000.svg?style=for-the-badge&logo=github&logoColor=#FF7139" alt="MyownWebsite"/>
   </a>
   <a href="https://blitzong-nutthaweed.vercel.app/"target="_blank">
-    <img src="https://img.shields.io/badge/Blitzong-%23430098.svg?style=for-the-badge&logo=github&logoColor=white" alt="MyownWebsite"/>
+    <img src="https://img.shields.io/badge/Blitzong-%23430098.svg?style=for-the-badge&logo=github&logoColor=white" alt="Blitzong"/>
+  </a>
+ <a href="https://watchamove-lpdps3wr6-nutthaweed.vercel.app/"target="_blank">
+    <img src="https://img.shields.io/badge/Watchamove-%2302569B.svg?style=for-the-badge&logo=github&logoColor=white" alt="Watchamove"/>
   </a>
  </p>
