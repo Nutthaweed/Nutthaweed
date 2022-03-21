@@ -279,9 +279,9 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
  <a href="https://mywebsite-nutthaweed.vercel.app/"target="_blank">
-    <img src="https://img.shields.io/badge/MyWebsite-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="MyownWebsite"/>
+    <img src="https://img.shields.io/badge/MyWebsite-%23000000.svg?style=for-the-badge&logo=github&logoColor=#FF7139" alt="MyownWebsite"/>
   </a>
   <a href="https://blitzong-nutthaweed.vercel.app/"target="_blank">
-    <img src="https://img.shields.io/badge/Blitzong-%23430098.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="MyownWebsite"/>
+    <img src="https://img.shields.io/badge/Blitzong-%23430098.svg?style=for-the-badge&logo=github&logoColor=white" alt="MyownWebsite"/>
   </a>
  </p>
