@@ -186,6 +186,30 @@
       alt="vuejs"
     />
   </a>
+ <a href="https://yarnpkg.com/"target="_blank">
+    <img
+      src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"
+      alt="yarn"
+    />
+  </a>
+ <a href="https://styled-components.com/"target="_blank">
+    <img
+      src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
+      alt="styledcomponent"
+    />
+  </a>
+ <a href="https://www.npmjs.com/"target="_blank">
+    <img
+      src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
+      alt="npm"
+    />
+  </a>
+ <a href="https://blitzjs.com/"target="_blank">
+    <img
+      src="https://img.shields.io/badge/Blitz-A435F0?style=for-the-badge&logo=Blitz&logoColor=white"
+      alt="blitzjs"
+    />
+  </a>
  </p>
 
  
