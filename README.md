@@ -206,8 +206,8 @@
   </a>
  <a href="https://blitzjs.com/"target="_blank">
     <img
-      src="https://img.shields.io/badge/Blitz-A435F0?style=for-the-badge&logo=Blitz&logoColor=white"
-      alt="blitzjs"
+      src="https://img.shields.io/badge/JSON-A435F0?style=for-the-badge&logo=JSON&logoColor=white"
+      alt="json"
     />
   </a>
  </p>
