@@ -162,6 +162,12 @@
       alt="electron"
     />
   </a>
+ <a href="https://www.gatsbyjs.com/"target="_blank">
+    <img
+      src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=black"
+      alt="gatsbyjs"
+    />
+  </a>
  </p>
 
  
