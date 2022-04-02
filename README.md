@@ -305,6 +305,8 @@
     
 <p align="center">
     <img src="https://img.shields.io/badge/Play Game-%23C04392?style=for-the-badge" alt="playgame"/>
+    <img src="https://img.shields.io/badge/Coding-%23DD0031?style=for-the-badge" alt="coding"/>
+   <img src="https://img.shields.io/badge/Music-%2307405e?style=for-the-badge" alt="music"/>
 </p>
     
     
