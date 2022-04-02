@@ -299,12 +299,12 @@
  
  
  <b> 🏆 Github Trophy</b>
- <p align="center"><img src="https://img.shields.io/badge/Play Game-%23C04392?style=for-the-badge" alt=trophy /></p>
+ <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Nutthaweed&theme=radical" alt=trophy /></p>
  
 ## 👫 Hobbies
     
 <p align="center">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="playgame"/>
+    <img src="https://img.shields.io/badge/Play Game-%23C04392?style=for-the-badge" alt="playgame"/>
 </p>
     
     
