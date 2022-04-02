@@ -168,6 +168,18 @@
       alt="gatsbyjs"
     />
   </a>
+  <a href="https://nuxtjs.org/"target="_blank">
+    <img
+      src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"
+      alt="nuxtjs"
+    />
+  </a>
+ <a href="https://sass-lang.com/"target="_blank">
+    <img
+      src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"
+      alt="sass"
+    />
+  </a>
  </p>
 
  
