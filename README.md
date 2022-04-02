@@ -299,7 +299,7 @@
  
  
  <b> 🏆 Github Trophy</b>
- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Nutthaweed&theme=radical&no-bg=true&align=center" alt=trophy /></p>
+ <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Nutthaweed&theme=radical&no-bg=true&align=center" alt=trophy align="center" /></p>
  
 ## 👫 Hobbies
     
