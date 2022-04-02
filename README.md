@@ -204,7 +204,7 @@
       alt="npm"
     />
   </a>
- <a href="https://blitzjs.com/"target="_blank">
+ <a href="https://www.json.org/json-en.html"target="_blank">
     <img
       src="https://img.shields.io/badge/JSON-A435F0?style=for-the-badge&logo=JSON&logoColor=white"
       alt="json"
@@ -299,13 +299,13 @@
  
  
  <b> 🏆 Github Trophy</b>
- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nutthaweed&theme=radical&column=8&no-bg=true&no-frame=true" alt=trophy /></p>
+ <p align="center"><img src="https://img.shields.io/badge/Play Game-%23C04392?style=for-the-badge" alt=trophy /></p>
  
 ## 👫 Hobbies
     
 <p align="center">
-<text>Play Video Game , Coding Some Project , Plays Some Card , Play Some Board Game And Listen Music.</text>
-     </p>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="playgame"/>
+</p>
     
     
 ## 📞 Contact me
