@@ -292,9 +292,9 @@
 ## 🐱‍💻 My GitHub Stats
 <b> 📄 Github Stats</b>
   <p align="center" display="flex">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nutthaweed&theme=radical&show_icons=true&locale=en&layout=compact&no-frame=true" alt="Nutthaweed" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nutthaweed&theme=radical&show_icons=true&locale=en&layout=compact&no-frame=true" alt="Nutthaweed" env="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" />
     &nbsp;
-    <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&theme=radical&show_icons=true&locale=en&no-frame=true" alt="Nutthaweed" />
+    <img   src="https://github-readme-stats.vercel.app/api?username=Nutthaweed&theme=radical&show_icons=true&locale=en&no-frame=true" alt="Nutthaweed" env="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"/>
  </p>
  
  
